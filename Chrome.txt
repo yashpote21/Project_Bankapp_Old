@@ -1,0 +1,1 @@
+pytest -v -s --browser chrome --html="HTMLReports\BankApp.html" --alluredir="AllureReports"

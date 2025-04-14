@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:46 test_BankApp_Register test case started
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:47 Opening browser
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:50 Clicking on Sign Up link
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:52 Entering Username:- Usert3FcAl
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:54 Entering Password:- Usero2Y28F@123
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:56 Entering Email:- UserAkPyaS@example.com
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:58 Entering Phone number:- 8267623089
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:61 Click On Create User button
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:64 Verifying User Registration
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:70 User Not Registered

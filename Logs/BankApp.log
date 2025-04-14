@@ -1,0 +1,82 @@
+2024-11-28 10:14:50,200 : INFO : Test_BankApp_UserProfile : test_Check_URL : test_Check_URL test case started
+2024-11-28 10:14:50,201 : INFO : Test_BankApp_UserProfile : test_Check_URL : Opening browser
+2024-11-28 10:14:50,201 : INFO : Test_BankApp_UserProfile : test_Check_URL : Verifying URL
+2024-11-28 10:14:57,783 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : test_BankApp_Register test case started
+2024-11-28 10:14:57,783 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Opening browser
+2024-11-28 10:14:57,783 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Clicking on Sign Up link
+2024-11-28 10:14:58,490 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Username:- Usert3FcAl
+2024-11-28 10:14:58,645 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Password:- Usero2Y28F@123
+2024-11-28 10:14:58,747 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Email:- UserAkPyaS@example.com
+2024-11-28 10:14:58,879 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Phone number:- 8267623089
+2024-11-28 10:14:58,969 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Click On Create User button
+2024-11-28 10:14:59,850 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Verifying User Registration
+2024-11-28 10:14:59,902 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : User Not Registered
+2024-11-28 10:15:07,202 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : test_BankApp_Login test case started
+2024-11-28 10:15:07,203 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Opening browser
+2024-11-28 10:15:07,203 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Click on Login link
+2024-11-28 10:15:07,946 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Entering Username:- YashTech
+2024-11-28 10:15:08,069 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Entering Password:- YashTech@101
+2024-11-28 10:15:08,164 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Click on Login button
+2024-11-28 10:15:09,767 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Verifying User Login
+2024-11-28 10:19:45,522 : INFO : Test_BankApp_UserProfile : test_Check_URL : test_Check_URL test case started
+2024-11-28 10:19:45,523 : INFO : Test_BankApp_UserProfile : test_Check_URL : Opening browser
+2024-11-28 10:19:45,523 : INFO : Test_BankApp_UserProfile : test_Check_URL : Verifying URL
+2024-11-28 10:19:48,027 : INFO : Test_BankApp_UserProfile : test_Check_URL : URL launch On incorrect page
+2024-11-28 10:19:48,027 : INFO : Test_BankApp_UserProfile : test_Check_URL : test_Check_URL test case Failed
+2024-11-28 10:19:48,027 : INFO : Test_BankApp_UserProfile : test_Check_URL : test_Check_URL test case Execution Completed
+
+2024-11-28 10:19:54,225 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : test_BankApp_Register test case started
+2024-11-28 10:19:54,225 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Opening browser
+2024-11-28 10:19:54,225 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Clicking on Sign Up link
+2024-11-28 10:19:54,752 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Username:- User80pz7F
+2024-11-28 10:19:54,894 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Password:- UserBhL97V@123
+2024-11-28 10:19:54,986 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Email:- UserSXdnVE@example.com
+2024-11-28 10:19:55,082 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Phone number:- 8310785880
+2024-11-28 10:19:55,157 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Click On Create User button
+2024-11-28 10:19:55,659 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Verifying User Registration
+2024-11-28 10:19:55,754 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : User Not Registered
+2024-11-28 10:19:56,386 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : test_BankApp_Register test case Failed
+2024-11-28 10:19:56,386 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : test_BankApp_Register test case Execution Completed
+
+2024-11-28 10:20:01,398 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : test_BankApp_Login test case started
+2024-11-28 10:20:01,398 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Opening browser
+2024-11-28 10:20:01,398 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Click on Login link
+2024-11-28 10:20:04,291 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Entering Username:- YashTech
+2024-11-28 10:20:04,426 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Entering Password:- YashTech@101
+2024-11-28 10:20:04,529 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Click on Login button
+2024-11-28 10:20:06,020 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Verifying User Login
+2024-11-28 10:20:06,580 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : User Not logged in
+2024-11-28 10:20:06,580 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : test_BankApp_Login test case Failed
+2024-11-28 10:20:06,580 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : test_BankApp_Login test case Execution Completed
+
+2024-11-28 10:29:22,969 : INFO : Test_BankApp_UserProfile : test_Check_URL : test_Check_URL test case started
+2024-11-28 10:29:22,969 : INFO : Test_BankApp_UserProfile : test_Check_URL : Opening browser
+2024-11-28 10:29:22,969 : INFO : Test_BankApp_UserProfile : test_Check_URL : Verifying URL
+2024-11-28 10:29:23,243 : INFO : Test_BankApp_UserProfile : test_Check_URL : URL launch On incorrect page
+2024-11-28 10:29:23,243 : INFO : Test_BankApp_UserProfile : test_Check_URL : test_Check_URL test case Failed
+2024-11-28 10:29:23,243 : INFO : Test_BankApp_UserProfile : test_Check_URL : test_Check_URL test case Execution Completed
+
+2024-11-28 10:29:30,344 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : test_BankApp_Register test case started
+2024-11-28 10:29:30,344 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Opening browser
+2024-11-28 10:29:30,344 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Clicking on Sign Up link
+2024-11-28 10:29:31,098 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Username:- User1pil4A
+2024-11-28 10:29:31,234 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Password:- UserOVZqwR@123
+2024-11-28 10:29:31,320 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Email:- UseraTM2zv@example.com
+2024-11-28 10:29:31,436 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Entering Phone number:- 4950367536
+2024-11-28 10:29:31,531 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Click On Create User button
+2024-11-28 10:29:32,216 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : Verifying User Registration
+2024-11-28 10:29:32,260 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : User Not Registered
+2024-11-28 10:29:32,724 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : test_BankApp_Register test case Failed
+2024-11-28 10:29:32,724 : INFO : Test_BankApp_UserProfile : test_BankApp_Register : test_BankApp_Register test case Execution Completed
+
+2024-11-28 10:29:39,451 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : test_BankApp_Login test case started
+2024-11-28 10:29:39,453 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Opening browser
+2024-11-28 10:29:39,453 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Click on Login link
+2024-11-28 10:29:40,198 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Entering Username:- YashTech
+2024-11-28 10:29:40,336 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Entering Password:- YashTech@101
+2024-11-28 10:29:40,443 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Click on Login button
+2024-11-28 10:29:42,427 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : Verifying User Login
+2024-11-28 10:29:43,067 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : User Not logged in
+2024-11-28 10:29:43,067 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : test_BankApp_Login test case Failed
+2024-11-28 10:29:43,068 : INFO : Test_BankApp_UserProfile : test_BankApp_Login : test_BankApp_Login test case Execution Completed
+

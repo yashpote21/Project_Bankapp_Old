@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:83 test_BankApp_Login test case started
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:84 Opening browser
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:87 Click on Login link
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:89 Entering Username:- YashTech
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:91 Entering Password:- YashTech@101
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:93 Click on Login button
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:95 Verifying User Login

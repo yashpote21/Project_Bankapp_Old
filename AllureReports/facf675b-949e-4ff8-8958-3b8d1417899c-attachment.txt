@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:24 test_Check_URL test case started
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:25 Opening browser
+[32mINFO    [0m Test_BankApp_UserProfile:test_BankApp_UserProfile.py:28 Verifying URL
