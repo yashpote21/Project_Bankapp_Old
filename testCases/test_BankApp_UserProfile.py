@@ -26,7 +26,7 @@ class Test_BankApp_UserProfile:
         self.driver = setup
 
         self.Log.info("Verifying URL")
-        if self.driver.title == "Bank Application1":
+        if self.driver.title == "Bank Application":
             self.Log.info("URL launch On correct page")
             self.Log.info("test_Check_URL test case successfully Passed")
             assert True
@@ -61,7 +61,7 @@ class Test_BankApp_UserProfile:
         self.up.Click_Create_User()
 #         time.sleep(5)
         self.Log.info("Verifying User Registration")
-        if self.up.Validate_UserRegister() == "User created successfully1":
+        if self.up.Validate_UserRegister() == "User created successfully":
             self.Log.info("User Successfully Registered")
             self.Log.info("test_BankApp_Register test case successfully Passed")
             assert True
@@ -91,7 +91,7 @@ class Test_BankApp_UserProfile:
         self.Log.info("Click on Login button")
         self.lp.Click_LoginButton()
         self.Log.info("Verifying User Login")
-        if self.lp.Validate_User() == "Dashboard1":
+        if self.lp.Validate_User() == "Dashboard":
             self.Log.info("User Successfully logged in")
             self.Log.info("test_BankApp_Login test case successfully Passed")
             assert True
